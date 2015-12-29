@@ -1,4 +1,5 @@
 Ensure `Site administration > Development > Debugging > Debug messages` is set to DEVELOPER
+
 1. Install `mod_attendence`, `local_attendencefilter` (follow the script inclusion instructions).
 2. Under `Site administration > Development >  Make test course`, make a small test course.
 3. Add the attendence activity to the course.
